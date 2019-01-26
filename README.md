@@ -1,4 +1,4 @@
-# machine_learning
+# Gender prediction
 Introduction:
 Gender prediction using twitter user profile information.
 The objective of this project is to create a machine learning model for predicting the gender of a twitter user based on the

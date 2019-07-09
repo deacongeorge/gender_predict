@@ -5,16 +5,16 @@ The objective of this project is to create a machine learning model for predicti
 profile information and other data provided. The gender categories are male, female and brands.
 While male and female refer to individuals, Brand refers to corporte entities and non individuals.
 
-Business Case:
+# Business Case:
 Missing names and gender could be a huge concern when required for identity especially in marketing and demographic purposes.
 Therefore accurate prediction of gender is of immense value for customer and consumer classification in targeted marketing.
 Robotic technology has made non human tweets and responses possible hence it important to identify tweets made by individuals and tweets made by non humans. Also completing online documents and login sometimes requires identification of humans and non humans.
 
-Technical Solution:
+# Technical Solution:
 A high performance multi class classifier was built to predict the the gender category using tweeter user profile information.
 The predictor was trained using machine learning and deep learning algorithms. The models were trained and tested using 20050 twitter user profiles and information extracted. The solution is scalable for higher performance. 
 
-Summary of model building:
+# Summary of model building:
 The data was imported using pandas library in python. The preprossing of the data was executed in which each column of the dataframe was cleaned to contain the same data type. 
 Exploratory data analysis with visualisation was done for insight on the data relationship, variation and
 distribution, The raw data was transformed to improve the prediction model. Four base supervised machine learning models were created

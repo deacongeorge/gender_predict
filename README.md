@@ -1,5 +1,5 @@
 # Gender prediction
-Introduction:
+# Introduction:
 Gender prediction using twitter user profile information.
 The objective of this project is to create a machine learning model for predicting the gender of a twitter user based on the
 profile information and other data provided. The gender categories are male, female and brands.
@@ -15,9 +15,13 @@ A high performance multi class classifier was built to predict the the gender ca
 The predictor was trained using machine learning and deep learning algorithms. The models were trained and tested using 20050 twitter user profiles and information extracted. The solution is scalable for higher performance. 
 
 # Summary of model building:
-The data was imported using pandas library in python. The preprossing of the data was executed in which each column of the dataframe was cleaned to contain the same data type. 
+The data was imported using pandas library in python.
+The preprocesssing of the data was executed in which each column of the dataframe was cleaned to contain the same data type. 
 Exploratory data analysis with visualisation was done for insight on the data relationship, variation and
-distribution, The raw data was transformed to improve the prediction model. Four base supervised machine learning models were created
-for pediction using selected data features after scaling. The models were evaluated on a test unseen data. A prediction performance
-of 66% accuracy, precision and recall in target prediction was achieved on initial model. A deep learning model will include pictures to improve the model prediction performance.
+distribution.
+Data transformation and engineering was done to extract features and improve the prediction model.
+Four base supervised machine learning models were created for pediction using selected data features after scaling.
+The models were evaluated on a test unseen data.
+A prediction performance of 66% accuracy, precision and recall in target prediction was achieved on initial model.
+A deep learning model will include pictures to improve the model prediction performance.
 '''

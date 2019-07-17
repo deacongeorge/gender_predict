@@ -2,8 +2,8 @@
 # Introduction:
 Gender prediction using twitter user profile information.
 The objective of this project is to create a machine learning model for predicting the gender of a twitter user based on the
-profile information and other data provided. The gender categories are male, female and brands.
-While male and female refer to individuals, Brand refers to corporte entities and non individuals.
+profile and tweet text information and other data provided. The gender categories are male, female and brands.
+While male and female refer to individuals, Brand refers to corporate entities and non individuals.
 
 # Business Case:
 Missing names and gender could be a huge concern when required for identity especially in marketing and demographic purposes.

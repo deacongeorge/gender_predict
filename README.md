@@ -20,7 +20,7 @@ The preprocesssing of the data was executed in which each column of the datafram
 Exploratory data analysis with visualisation was done for insight on the data relationship, variation and
 distribution.
 Data transformation and engineering was done to extract features and improve the prediction model.
-Four base supervised machine learning models were created for pediction using selected data features after scaling.
+Four supervised machine learning models were created for pediction using selected data features after scaling.
 The models were evaluated on a test unseen data.
 A prediction performance of 66% accuracy, precision and recall in target prediction was achieved on initial model.
 A deep learning model will include pictures to improve the model prediction performance.
